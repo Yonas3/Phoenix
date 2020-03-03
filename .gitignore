@@ -1,7 +1,4 @@
 .settings/
 .project
 .classpath
-
 target/
-
-testing.xml
